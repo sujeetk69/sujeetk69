@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sujeet Kumar
-- 👀 I’m interested in Web Development and Automation
+- 👀 I’m passionate about Web Development and Automation
 - 🌱 
 - 💞️ 
 - 📫 
